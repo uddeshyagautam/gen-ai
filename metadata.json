@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Fantasy Character Generator",
+  "description": "A simple web application that uses AI to generate a random fantasy character with a unique name and a class (Mage, Rogue, or Warrior) at the click of a button.",
+  "requestFramePermissions": []
+}
